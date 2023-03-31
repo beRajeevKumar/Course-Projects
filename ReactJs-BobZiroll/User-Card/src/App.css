@@ -1,42 +1,105 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
+html {
+  font-size: 62.5%;
+  font-family: "Poppins", sans-serif;
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+body {
+  background-color: #23252c;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  padding-top: 20rem;
 }
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
 .card {
-  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  background-color: #1a1b21;
+  max-width: 32rem;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 3.2rem;
 }
-
-.read-the-docs {
-  color: #888;
+.img {
+  width: 100%;
+}
+.details {
+  text-align: center;
+  padding: 2.4rem;
+}
+.name {
+  font-size: 3.2rem;
+  color: #fff;
+}
+.job {
+  font-size: 1.6rem;
+  color: #f3bf99;
+}
+.website:link,
+.website:visited {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: #fff;
+  line-height: 1.8;
+  font-weight: 400;
+}
+.buttons {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  margin: 2rem 0;
+}
+.contact-links:link,
+.contact-links:visited {
+  font-size: 1.6rem;
+  display: flex;
+  gap: 0.8rem;
+  align-items: center;
+  text-decoration: none;
+  padding: 0.4rem 1.6rem;
+  border-radius: 4px;
+}
+.email:link,
+.email:visited {
+  background-color: #fff;
+  color: #000;
+}
+.linkedin:link,
+.linkedin:visited {
+  background-color: #5093e2;
+  color: #fff;
+}
+.icon {
+  font-size: 2rem;
+}
+.icon-email {
+  color: #000;
+}
+.icon-linkedin {
+  color: #fff;
+}
+.description {
+  color: #fff;
+  text-align: start;
+}
+.about {
+  margin-bottom: 1.6rem;
+}
+.subheading {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 0.4rem;
+}
+.text {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6;
+}
+.links {
+  background-color: #161619;
+  height: 50px;
 }

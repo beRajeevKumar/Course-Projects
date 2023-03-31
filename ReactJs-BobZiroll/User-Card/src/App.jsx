@@ -1,35 +1,62 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React from "react";
+import Profile from "./assets/profile.jpeg";
+import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <div className="App">
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://reactjs.org" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+    <article className="card">
+      <div className="img-box">
+        <img src={Profile} className="img" alt="User Profile" />
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+      <div className="details">
+        <h2 className="name">John Doe</h2>
+        <p className="job">Frontend Developer</p>
+        <a className="website" href="https://iamrajeev.me/" target="_blank">
+          iamrajeev.me
+        </a>
+        <div className="buttons">
+          <a
+            className="contact-links email"
+            href="mailto:rajeevjewar2@gmail.com"
+          >
+            <i class="icon icon-email fa-solid fa-envelope"></i>
+            <span>Email</span>
+          </a>
+          <a
+            className="contact-links linkedin"
+            href="https://www.linkedin.com/in/rajeevkumar504/"
+            target="_blank"
+          >
+            <i class="icon icon-linkedin icon-email fa-brands fa-linkedin"></i>
+            <span>LinkedIn</span>
+          </a>
+        </div>
+        <div className="description">
+          <div className="about">
+            <h3 className="subheading">About</h3>
+            <p className="text">
+              I am a frontend developer with a particular interest in making
+              things simple and automating daily tasks. I try to keep up with
+              security and best practices, and am always looking for new things
+              to learn.
+            </p>
+          </div>
+          <div className="interests">
+            <h3 className="subheading">Interests</h3>
+            <p className="text">
+              I am a frontend developer with a particular interest in making
+              things simple and automating daily tasks. I try to keep up with
+              security and best practices, and am always looking for new things
+              to learn.
+            </p>
+          </div>
+        </div>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </div>
-  )
+      <div className="links">
+        <a href="#"></a>
+      </div>
+    </article>
+  );
 }
 
-export default App
+export default App;
