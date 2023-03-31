@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "./assets/profile.jpeg";
+import Profile from "./assets/profile.jpg";
 import "./App.css";
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
         <img src={Profile} className="img" alt="User Profile" />
       </div>
       <div className="details">
-        <h2 className="name">John Doe</h2>
+        <h2 className="name">Rajeev Kumar</h2>
         <p className="job">Frontend Developer</p>
         <a className="website" href="https://iamrajeev.me/" target="_blank">
           iamrajeev.me
@@ -44,16 +44,25 @@ function App() {
           <div className="interests">
             <h3 className="subheading">Interests</h3>
             <p className="text">
-              I am a frontend developer with a particular interest in making
-              things simple and automating daily tasks. I try to keep up with
-              security and best practices, and am always looking for new things
-              to learn.
+              Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
+              Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
             </p>
           </div>
         </div>
       </div>
       <div className="links">
-        <a href="#"></a>
+        <a href="https://twitter.com/RajeevKumar504" target="_blank">
+          <i class="link-icons fa-brands fa-square-twitter"></i>
+        </a>
+        <a href="https://www.facebook.com/RajeevKumar504/" target="_blank">
+          <i class="link-icons fa-brands fa-square-facebook"></i>
+        </a>
+        <a href="https://www.instagram.com/rajeevkumar0504/" target="_blank">
+          <i class="link-icons fa-brands fa-square-instagram"></i>
+        </a>
+        <a href="https://github.com/Rajeevjewar" target="_blank">
+          <i class="link-icons fa-brands fa-square-github"></i>
+        </a>
       </div>
     </article>
   );

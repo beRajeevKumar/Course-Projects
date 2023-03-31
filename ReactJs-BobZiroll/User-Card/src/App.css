@@ -19,13 +19,17 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #1a1b21;
-  max-width: 32rem;
+  max-width: 40rem;
   border-radius: 12px;
   overflow: hidden;
   margin-bottom: 3.2rem;
 }
 .img {
   width: 100%;
+  object-fit: fill;
+  filter: grayscale(1);
+  opacity: 0.9;
+  filter: saturate(0%);
 }
 .details {
   text-align: center;
@@ -68,10 +72,19 @@ body {
   background-color: #fff;
   color: #000;
 }
+.email:hover,
+.email:active {
+  background-color: #e6e6e6;
+}
 .linkedin:link,
 .linkedin:visited {
   background-color: #5093e2;
   color: #fff;
+  transition: all 0.4s;
+}
+.linkedin:hover,
+.linkedin:active {
+  background-color: #4884cb;
 }
 .icon {
   font-size: 2rem;
@@ -99,7 +112,20 @@ body {
   font-weight: 400;
   line-height: 1.6;
 }
+
 .links {
   background-color: #161619;
-  height: 50px;
+  padding: 1.6rem 3.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3.2rem;
+}
+.link-icons {
+  color: #918e9b;
+  font-size: 3.2rem;
+  transition: all 0.4s;
+}
+.link-icons:hover {
+  color: #fff;
 }
