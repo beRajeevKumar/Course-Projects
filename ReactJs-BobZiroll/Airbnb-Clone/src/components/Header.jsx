@@ -5,9 +5,3 @@ export default function Header() {
     </header>
   );
 }
-
-{
-  /* <a href="">
-<img src="./src/assets/airbnb-logo.svg" alt="Airbnb Logo" />
-</a> */
-}
