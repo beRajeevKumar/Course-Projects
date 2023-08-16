@@ -8,4 +8,12 @@ html {
 }
 body {
   font-family: "Work Sans", sans-serif;
+  color: #333;
+  background: #fefefe;
+}
+h1 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  text-align: center;
+  margin: 1.2rem 0;
 }
