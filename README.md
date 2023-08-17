@@ -8,10 +8,12 @@ Master your tasks effortlessly! Discover my intuitive Kanban tool with three col
 
 Click [here](https://rajeev-course-projects.netlify.app/) to checkout my course projects.
 
-## Features and Interfaces
+## Listing of projects
 
 <details open> 
-  <summary><h2>🛠️ Tools & Technologies</h2></summary>
+  <summary><h2>📝 HTML CSS & SASS </h2></summary>
+
+Checkout certificate [here](https://rajeev-course-projects.netlify) & [here](https://)
 
 | Name of the Project  |                                     Live Project View                                      | Source Code                                                                                            |
 | :------------------- | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- |
@@ -23,9 +25,57 @@ Click [here](https://rajeev-course-projects.netlify.app/) to checkout my course 
 
 </details>
 
-## Tech stack
+<details open> 
+  <summary><h2>🛠️ Complete JavaScript Development</h2></summary>
 
-## Points to remember while testing the WebApp
+| Name of the Project  |                                     Live Project View                                      | Source Code                                                                                            |
+| :------------------- | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- |
+| 1. Community Card    |       [Project Demo](https://frontend-mentor-rajeev.netlify.app/01-community-card/)        | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/01-Community-Card)    |
+| 2. Qr Code Component | [Project Demo](https://frontend-mentor-rajeev.netlify.app/02-qr-code-component/index.html) | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/02-qr-code-component) |
+| 3. Social Proof      |   [Project Demo](https://frontend-mentor-rajeev.netlify.app/03-social-proof/index.html)    | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/03-social-proof)      |
+| 4. Nft Project       |    [Project Demo](https://frontend-mentor-rajeev.netlify.app/04-nft-project/index.html)    | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/04-nft-project)       |
+| 5. Intractive Rating | [Project Demo](https://frontend-mentor-rajeev.netlify.app/05-intractive-rating/index.html) | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/05-intractive-rating) |
+
+</details>
+
+<details open> 
+  <summary><h2>🛠️ Ultimate React Development</h2></summary>
+
+| Name of the Project  |                                     Live Project View                                      | Source Code                                                                                            |
+| :------------------- | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- |
+| 1. Community Card    |       [Project Demo](https://frontend-mentor-rajeev.netlify.app/01-community-card/)        | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/01-Community-Card)    |
+| 2. Qr Code Component | [Project Demo](https://frontend-mentor-rajeev.netlify.app/02-qr-code-component/index.html) | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/02-qr-code-component) |
+| 3. Social Proof      |   [Project Demo](https://frontend-mentor-rajeev.netlify.app/03-social-proof/index.html)    | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/03-social-proof)      |
+| 4. Nft Project       |    [Project Demo](https://frontend-mentor-rajeev.netlify.app/04-nft-project/index.html)    | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/04-nft-project)       |
+| 5. Intractive Rating | [Project Demo](https://frontend-mentor-rajeev.netlify.app/05-intractive-rating/index.html) | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/05-intractive-rating) |
+
+</details>
+
+<details open> 
+  <summary><h2>🛠️ Backend Development </h2></summary>
+
+| Name of the Project  |                                     Live Project View                                      | Source Code                                                                                            |
+| :------------------- | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- |
+| 1. Community Card    |       [Project Demo](https://frontend-mentor-rajeev.netlify.app/01-community-card/)        | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/01-Community-Card)    |
+| 2. Qr Code Component | [Project Demo](https://frontend-mentor-rajeev.netlify.app/02-qr-code-component/index.html) | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/02-qr-code-component) |
+| 3. Social Proof      |   [Project Demo](https://frontend-mentor-rajeev.netlify.app/03-social-proof/index.html)    | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/03-social-proof)      |
+| 4. Nft Project       |    [Project Demo](https://frontend-mentor-rajeev.netlify.app/04-nft-project/index.html)    | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/04-nft-project)       |
+| 5. Intractive Rating | [Project Demo](https://frontend-mentor-rajeev.netlify.app/05-intractive-rating/index.html) | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/05-intractive-rating) |
+
+</details>
+
+<details open> 
+  <summary><h2>🛠️ Python Development </h2></summary>
+
+| Name of the Project  |                                     Live Project View                                      | Source Code                                                                                            |
+| :------------------- | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- |
+| 1. Community Card    |       [Project Demo](https://frontend-mentor-rajeev.netlify.app/01-community-card/)        | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/01-Community-Card)    |
+| 2. Qr Code Component | [Project Demo](https://frontend-mentor-rajeev.netlify.app/02-qr-code-component/index.html) | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/02-qr-code-component) |
+| 3. Social Proof      |   [Project Demo](https://frontend-mentor-rajeev.netlify.app/03-social-proof/index.html)    | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/03-social-proof)      |
+| 4. Nft Project       |    [Project Demo](https://frontend-mentor-rajeev.netlify.app/04-nft-project/index.html)    | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/04-nft-project)       |
+| 5. Intractive Rating | [Project Demo](https://frontend-mentor-rajeev.netlify.app/05-intractive-rating/index.html) | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/05-intractive-rating) |
+
+</details>
 
 ## Useful Links
 
