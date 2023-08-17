@@ -13,15 +13,12 @@ Click [here](https://rajeev-course-projects.netlify.app/) to checkout my course 
 <details open> 
   <summary><h2>📝 HTML CSS & SASS </h2></summary>
 
-Checkout certificate [here](https://rajeev-course-projects.netlify) & [here](https://)
+Checkout certificate [here](https://www.udemy.com/certificate/UC-25115396-b252-44fb-a4be-065986030158/)
 
 | Name of the Project  |                                     Live Project View                                      | Source Code                                                                                            |
 | :------------------- | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- |
 | 1. Community Card    |       [Project Demo](https://frontend-mentor-rajeev.netlify.app/01-community-card/)        | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/01-Community-Card)    |
 | 2. Qr Code Component | [Project Demo](https://frontend-mentor-rajeev.netlify.app/02-qr-code-component/index.html) | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/02-qr-code-component) |
-| 3. Social Proof      |   [Project Demo](https://frontend-mentor-rajeev.netlify.app/03-social-proof/index.html)    | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/03-social-proof)      |
-| 4. Nft Project       |    [Project Demo](https://frontend-mentor-rajeev.netlify.app/04-nft-project/index.html)    | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/04-nft-project)       |
-| 5. Intractive Rating | [Project Demo](https://frontend-mentor-rajeev.netlify.app/05-intractive-rating/index.html) | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/05-intractive-rating) |
 
 </details>
 
