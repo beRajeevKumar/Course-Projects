@@ -15,10 +15,11 @@ Click [here](https://rajeev-course-projects.netlify.app/) to checkout my course 
 
 Checkout certificate [here](https://www.udemy.com/certificate/UC-25115396-b252-44fb-a4be-065986030158/)
 
-| Name of the Project  |                                     Live Project View                                      | Source Code                                                                                            |
-| :------------------- | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- |
-| 1. Community Card    |       [Project Demo](https://frontend-mentor-rajeev.netlify.app/01-community-card/)        | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/01-Community-Card)    |
-| 2. Qr Code Component | [Project Demo](https://frontend-mentor-rajeev.netlify.app/02-qr-code-component/index.html) | [Project Code](https://github.com/Rajeevjewar/Frontend-Mentor-Projects/tree/main/02-qr-code-component) |
+| Name of the Project |                   Live Project View                   | Source Code                                                        |
+| :------------------ | :---------------------------------------------------: | :----------------------------------------------------------------- |
+| 1. Omnifood         | [Project Demo](https://omnifood-rajeev.netlify.app/)  | [Project Code](https://github.com/Rajeevjewar/OmnifoodProject.git) |
+| 2. Table Shop       | [Project Demo](https://rajeevchairshop.netlify.app/)  | [Project Code](https://github.com/Rajeevjewar/Table-Shop.git)      |
+| 3. Blog Page        | [Project Demo](https://blog-post-rajeev.netlify.app/) | [Project Code](https://github.com/Rajeevjewar/Blog-Post.git)       |
 
 </details>
 
