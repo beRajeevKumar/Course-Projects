@@ -1,9 +1,10 @@
 <h1 align="center">My Course Learning Projects 📝 </h1>
 
-Master your tasks effortlessly! Discover my intuitive Kanban tool with three columns (Todo, Doing, Done) for smooth task tracking. Embrace dark and bright modes, add tasks on the fly, and effortlessly organize your workflow.
+I am proud to share with you a comprehensive list of all the courses I have taken to learn new skills and technologies. For each course, I have included a detailed list of the projects I completed, along with their corresponding source code and live project URLs. Additionally, I have also provided certificates of completion for each course. I am excited to showcase my hard work and dedication to personal and professional growth.
+<br/>
 
 <p align="center">  
-<img src="./public/preview.png"/>  
+<img src="./images/preview.png"/>  
 </p>
 
 Click [here](https://rajeev-course-projects.netlify.app/) to checkout my course projects.
@@ -11,7 +12,7 @@ Click [here](https://rajeev-course-projects.netlify.app/) to checkout my course 
 ## Listing of projects
 
 <details open> 
-  <summary><h2>📝 HTML CSS & SASS </h2></summary>
+  <summary><h2>📝 HTML CSS </h2></summary>
 
 Checkout certificate [here](https://www.udemy.com/certificate/UC-25115396-b252-44fb-a4be-065986030158/)
 
@@ -24,7 +25,20 @@ Checkout certificate [here](https://www.udemy.com/certificate/UC-25115396-b252-4
 </details>
 
 <details open> 
-  <summary><h2>🛠️ Complete JavaScript Development</h2></summary>
+  <summary><h2>📝 Advance CSS & SASS </h2></summary>
+
+Checkout certificate [here](https://www.udemy.com/certificate/UC-25115396-b252-44fb-a4be-065986030158/)
+
+| Name of the Project |                   Live Project View                   | Source Code                                                        |
+| :------------------ | :---------------------------------------------------: | :----------------------------------------------------------------- |
+| 1. Omnifood         | [Project Demo](https://omnifood-rajeev.netlify.app/)  | [Project Code](https://github.com/Rajeevjewar/OmnifoodProject.git) |
+| 2. Table Shop       | [Project Demo](https://rajeevchairshop.netlify.app/)  | [Project Code](https://github.com/Rajeevjewar/Table-Shop.git)      |
+| 3. Blog Page        | [Project Demo](https://blog-post-rajeev.netlify.app/) | [Project Code](https://github.com/Rajeevjewar/Blog-Post.git)       |
+
+</details>
+
+<details open> 
+  <summary><h2>🛠️ JavaScript Development</h2></summary>
 
 | Name of the Project  |                                     Live Project View                                      | Source Code                                                                                            |
 | :------------------- | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- |
@@ -37,7 +51,7 @@ Checkout certificate [here](https://www.udemy.com/certificate/UC-25115396-b252-4
 </details>
 
 <details open> 
-  <summary><h2>🛠️ Ultimate React Development</h2></summary>
+  <summary><h2>🛠️ React Development</h2></summary>
 
 | Name of the Project  |                                     Live Project View                                      | Source Code                                                                                            |
 | :------------------- | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- |
@@ -77,9 +91,9 @@ Checkout certificate [here](https://www.udemy.com/certificate/UC-25115396-b252-4
 
 ## Useful Links
 
-- [Project Demo](https://kanban-task-management-rajeev.vercel.app/) for Web version
+- [Project Demo](https://rajeev-course-projects.netlify.app/) - Live Project URL
 
-- [Project Repository](https://github.com/Rajeevjewar/Markdown-Editor.git)
+- [Project Repository](https://github.com/Rajeevjewar/Course-Projects.git)
 
 ## Need help?
 
