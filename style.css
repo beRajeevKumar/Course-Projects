@@ -12,8 +12,23 @@ body {
   background: #fefefe;
 }
 h1 {
-  font-size: 3.2rem;
+  font-size: 4.4rem;
   font-weight: 600;
   text-align: center;
-  margin: 1.2rem 0;
+  margin: 2.4rem 0;
+}
+h2 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  margin-left: 3.2rem;
+  position: relative;
+}
+h2::before {
+  content: "";
+  margin-top: 3.6rem;
+  border-radius: 5px;
+  height: 0.35rem;
+  width: 6rem;
+  background-color: darkorange;
+  position: absolute;
 }
