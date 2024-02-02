@@ -58,7 +58,7 @@ Checkout certificate [here](https://www.udemy.com/certificate/UC-ac38e21b-6b76-4
 
 | Name of the Project |                   Live Project View                    | Source Code                                                      |
 | :------------------ | :----------------------------------------------------: | :--------------------------------------------------------------- |
-| 1. React Features   | [Project Demo](https://reactfacts-rajeev.netlify.app/) | [Project Code](https://github.com/beRajeevKumar/React-Facts.git) |
+| 1. React Facts      | [Project Demo](https://reactfacts-rajeev.netlify.app/) | [Project Code](https://github.com/beRajeevKumar/React-Facts.git) |
 
 </details>
 
